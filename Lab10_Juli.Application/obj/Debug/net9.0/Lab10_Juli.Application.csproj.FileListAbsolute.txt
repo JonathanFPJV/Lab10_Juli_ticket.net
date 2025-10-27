@@ -1,0 +1,15 @@
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\bin\Debug\net9.0\Lab10_Juli.Application.deps.json
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\bin\Debug\net9.0\Lab10_Juli.Application.dll
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\bin\Debug\net9.0\Lab10_Juli.Application.pdb
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\bin\Debug\net9.0\Lab10_Juli.Domain.dll
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\bin\Debug\net9.0\Lab10_Juli.Domain.pdb
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\obj\Debug\net9.0\Lab10_Juli.Application.csproj.AssemblyReference.cache
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\obj\Debug\net9.0\Lab10_Juli.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\obj\Debug\net9.0\Lab10_Juli.Application.AssemblyInfoInputs.cache
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\obj\Debug\net9.0\Lab10_Juli.Application.AssemblyInfo.cs
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\obj\Debug\net9.0\Lab10_Juli.Application.csproj.CoreCompileInputs.cache
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\obj\Debug\net9.0\Lab10_Ju.04C629EC.Up2Date
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\obj\Debug\net9.0\Lab10_Juli.Application.dll
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\obj\Debug\net9.0\refint\Lab10_Juli.Application.dll
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\obj\Debug\net9.0\Lab10_Juli.Application.pdb
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Application\obj\Debug\net9.0\ref\Lab10_Juli.Application.dll

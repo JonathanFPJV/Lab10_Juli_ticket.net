@@ -1,0 +1,11 @@
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Domain\bin\Debug\net9.0\Lab10_Juli.Domain.deps.json
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Domain\bin\Debug\net9.0\Lab10_Juli.Domain.dll
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Domain\bin\Debug\net9.0\Lab10_Juli.Domain.pdb
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Domain\obj\Debug\net9.0\Lab10_Juli.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Domain\obj\Debug\net9.0\Lab10_Juli.Domain.AssemblyInfoInputs.cache
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Domain\obj\Debug\net9.0\Lab10_Juli.Domain.AssemblyInfo.cs
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Domain\obj\Debug\net9.0\Lab10_Juli.Domain.csproj.CoreCompileInputs.cache
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Domain\obj\Debug\net9.0\Lab10_Juli.Domain.dll
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Domain\obj\Debug\net9.0\refint\Lab10_Juli.Domain.dll
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Domain\obj\Debug\net9.0\Lab10_Juli.Domain.pdb
+D:\Proyect.net\Lab10_Juli\Lab10_Juli.Domain\obj\Debug\net9.0\ref\Lab10_Juli.Domain.dll
